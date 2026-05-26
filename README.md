@@ -1,5 +1,8 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
 
+## Name : Simon Malachi S
+## Reg No : 212224040318
+
 ## AIM:
 To create a warehouse application in salesforce.com
 
